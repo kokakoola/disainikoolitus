@@ -16,7 +16,7 @@
 
 ###Modular Bootstrap
 - [We can import component css on demand](https://github.com/twbs/bootstrap-sass/tree/master/assets/stylesheets/bootstrap)
-- [We can import component js on demand](https://github.com/twbs/bootstrap-sass/tree/master/assets/javascripts/bootstrap)
+- [We can import component js on demand](https://github.com/twbs/bootstrap-sass/tree/master/assets/javascripts/bootstrap)   
 And we usually do.
 
 ###Editors:
@@ -28,5 +28,5 @@ And we usually do.
 - [NoJquery](http://youmightnotneedjqueryplugins.com/)
 
 ###Prototyping
--[Prototype example](http://ux.netgroupdigital.com/merko/page.html)
+- [Prototype example](http://ux.netgroupdigital.com/merko/page.html)
 - [Theme example as GUI](http://ux.netgroupdigital.com/merko/)
